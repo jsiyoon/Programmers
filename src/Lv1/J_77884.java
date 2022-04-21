@@ -1,3 +1,4 @@
+package Lv1;
 import java.io.*;
 public class J_77884 {
 	public static void main(String[] args) throws Exception{

@@ -1,3 +1,4 @@
+package Lv1;
 import java.io.*;
 import java.util.Arrays;
 public class J_12930 {
