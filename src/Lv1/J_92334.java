@@ -42,7 +42,8 @@ public class J_92334 {
 			}
 		}
 		
-		for(int i = 0; i < id_list.length; i++) {
+		//k번 이상으로 신고된 유저들로 저장된 map개수 size로 세어 결과값 배열에 저장
+		for(int i = 0; i < id_list.length; i++){
 			answer[i] = singo.get(id_list[i]).size();
 		}
 		
